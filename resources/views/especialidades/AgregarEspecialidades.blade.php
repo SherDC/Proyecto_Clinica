@@ -6,7 +6,7 @@
 
 @section('Titulo')
     <i class="fa fa-gear fa-fw"></i>
-    <a1>Agregar Especialidade<a1>
+    <a1>Agregar Especialidades<a1>
 @endsection
 
 @section('Contenido')
